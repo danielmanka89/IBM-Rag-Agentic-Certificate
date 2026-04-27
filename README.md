@@ -1,41 +1,52 @@
-# Lesson 1.1 - Generative AI Essentials
+I've been building traditional ML models (classification, prediction). Now I want to learn GenAI, RAG, and AI Agents because that's where the industry is going.
 
-## What I Learned
+This certificate has 10 courses. I'm doing it to stay relevant and build real stuff.
 
-### Training
-- Learning from past mistakes
-- Like lemonade stand: Day 1 you guess wrong, Day 100 you guess right
+---
 
-### Discriminative vs Generative
-- Discriminative (Detective Dan) = only judges. Example: "Is this a cat?"
-- Generative (Artist Amy) = creates. Example: "Draw a cat with wings"
+## Why this certificate?
 
-### GANs
-- Generator = forger who creates fakes
-- Discriminator = cop who spots fakes
-- They compete → both get better
-- Invented 2014
+- RAG (Retrieval Augmented Generation) is how companies add their own data to LLMs
+- Agentic AI is the next big thing - AI that can take actions, not just chat
+- I want to build production-ready AI apps, not just prototypes
 
-### Transformers
-- Looks at all words at once (not left to right)
-- Attention = focuses on important words
-- Example: "bank of the river" → "river" gets attention
-- Invented 2017
-- This is why ChatGPT works
+---
 
-### Foundation Models
-- One model trained on everything (like Leonardo da Vinci)
-- Examples: GPT-4, Llama, DALL-E
+## My progress
 
-### Fine-tuning
-- Take foundation model, teach it one specialty
-- Cheaper and faster than training from scratch
+Started: April 23, 2026  
+Goal: Finish by July  
+Schedule: 2 hours/day, 6 days/week
 
-## Key Dates
-- 2014: GANs
-- 2017: Transformers
-- 2022: ChatGPT
+| Course | Hours | Status |
+|--------|-------|--------|
+| 1. Develop GenAI Apps | 10 | Lesson 1.1 done |
+| 2-10 | 90 | Not started |
 
-## Status
-✅ I understand all of this
-EOF
+Total done: 2 hours out of 100
+
+---
+
+## Daily log
+
+| Date | What I did |
+|------|------------|
+| April 23 | Lesson 1.1 - GenAI basics (training, GANs, transformers) |
+
+---
+
+## What I learned so far
+
+**Lesson 1.1 - GenAI Essentials (April 23)**
+
+---
+
+## Next up
+
+Lesson 1.2 - Prompt Engineering
+
+---
+
+## Connect
+
+GitHub: danielmanka89
